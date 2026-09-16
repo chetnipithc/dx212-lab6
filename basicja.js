@@ -1,3 +1,5 @@
+// this is lab 5 in lab6 folder
+
 let name = "peter";
 let age = 20;
 let graduated = true;
